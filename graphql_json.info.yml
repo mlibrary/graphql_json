@@ -2,6 +2,11 @@ name: GraphQL JSON
 type: module
 description: 'Extract data from various JSON sources.'
 package: GraphQL
-core_version_requirement: ^8 || ^9
+core: 8.x
 dependencies:
   - graphql_core
+
+# Information added by Drupal.org packaging script on 2019-11-01
+version: '8.x-1.0'
+project: 'graphql_json'
+datestamp: 1572604986
